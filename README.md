@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Leo-314159
 - 👀 I’m interested in telling stories through data
 - 🌱 I’m currently starting my learning path with Python
-- 💞️ I’m looking to collaborate on any Pythin cool projects :)
+- 💞️ I’m looking to collaborate on any Python cool projects :)
 - 📫 How to reach me leo.gonzalem@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I also love photography and I'm a massive 90's anime nerd
